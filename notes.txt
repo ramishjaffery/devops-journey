@@ -1,0 +1,8 @@
+Day 2 - Learning Linux Commands
+pwd - shows current directory
+ls - lists files
+mkdir - makes a folder
+touch - creates empty file
+cd - changes directory
+cat - reads file content
+echo - prints text or writes to file
