@@ -1,0 +1,5 @@
+Day 4 - Learning Git
+git status - checks what changed
+git add - selects files to save
+git commit - saves a snapshot
+git push - uploads to GitHub
