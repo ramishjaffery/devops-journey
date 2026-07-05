@@ -14,3 +14,14 @@ if [ $AGE -gt 18 ]; then
 else
     echo "You are a minor"
 fi
+# Loop example
+for i in 1 2 3 4 5
+do
+    echo "This is line number $i"
+done
+# Create folders automatically
+for folder in logs backups configs scripts temp
+do
+    mkdir -p $folder
+    echo "Created folder: $folder"
+done
